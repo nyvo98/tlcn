@@ -1,0 +1,22 @@
+html,
+body,
+#root {
+  height: 100vh;
+  max-height: fit-content;
+}
+
+body {
+  margin: 0 !important;
+}
+
+p {
+  margin: 0 !important;
+}
+
+button {
+  outline: none !important;
+}
+
+input {
+  outline: none !important;
+}
